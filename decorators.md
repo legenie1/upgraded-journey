@@ -53,7 +53,7 @@ A Decorator is represented by name which is preceded by an **@** Symbol
 
 ## Life before Decorators
 
-In python, we have inner and outer functions commonly called ** Nested functions **
+In python, we have inner and outer functions commonly called **Nested functions**
 
 Below is an example of a nested function
 
