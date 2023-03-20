@@ -321,3 +321,5 @@ I invite you to view the following resources
 - https://python-course.eu/advanced-python/decorators-decoration.php
 - https://www.programiz.com/python-programming/decorator
 - https://zestedesavoir.com/tutoriels/954/notions-de-python-avancees/2-functions/3-decorators/
+
+###### By Moffo Sergeo
